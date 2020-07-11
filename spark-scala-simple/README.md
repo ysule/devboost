@@ -1,4 +1,4 @@
-# This is a simple Spark-Scala project scaffold setup using maven archetype.
+# This is a simple Spark-Scala project scaffold for setup using maven archetype.
 
 
 * After you have cloned the project, run the following command in the projects root.
