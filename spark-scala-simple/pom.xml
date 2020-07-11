@@ -4,7 +4,7 @@
 
   <groupId>com.devboost</groupId>
   <artifactId>spark-scala-simple</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <version>0.2-SNAPSHOT</version>
   <packaging>maven-archetype</packaging>
 
   <name>Archetype - spark-scala-simple</name>

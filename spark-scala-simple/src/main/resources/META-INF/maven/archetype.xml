@@ -1,6 +1,6 @@
 
 <archetype>
-  <id>scala-archetype-simple</id>
+  <id>spark-scala-simple</id>
   <sources>
     <source>src/main/scala/${package}/App.scala</source>
   </sources>
