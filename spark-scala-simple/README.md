@@ -20,7 +20,7 @@
         mvn archetype:generate -B \
           -DarchetypeGroupId=com.devboost \
           -DarchetypeArtifactId=spark-scala-simple \
-          -DarchetypeVersion=0.1-SNAPSHOT \
+          -DarchetypeVersion=0.2-SNAPSHOT \
           -DgroupId=com.company \
           -DartifactId=awesome-artifact-name \
           -Dversion=0.1-SNAPSHOT \
