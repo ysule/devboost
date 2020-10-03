@@ -18,7 +18,7 @@
 # non interactive / batch mode:
 
         mvn archetype:generate -B \
-          -DarchetypeGroupId=com.devboost \
+          -DarchetypeGroupId=com.github.ysule \
           -DarchetypeArtifactId=spark-scala-simple \
           -DarchetypeVersion=0.2-SNAPSHOT \
           -DgroupId=com.company \
